@@ -1,6 +1,6 @@
-# Inventarios Pro
+# FiveStock
 
-sistema de inventario completo construido con React y Supabase, diseñado para una gestión de inventario eficiente y en tiempo real.
+Sistema de inventario completo construido con React y Supabase, diseñado para una gestión de inventario eficiente y en tiempo real.
 
 ## Características
 
